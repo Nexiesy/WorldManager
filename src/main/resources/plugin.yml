@@ -1,0 +1,4 @@
+name: WorldManager
+api: 1.0.10
+version: 1.0
+main: net.world.manager.WorldManager
